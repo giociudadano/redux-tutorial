@@ -1,0 +1,38 @@
+.card {
+    border-top: 5px solid;
+}
+
+.card-status-resolved {
+    background-color: #DEFFDE;
+    border-color: #55AA55;
+}
+
+.card-status-tofix {
+    background-color: #FFFFDE;
+    border-color: #FFC700;
+}
+
+.ticket-id {
+    color: #BBB;
+    font-weight: 500;
+    font-size: 0.7rem;
+}
+
+.ticket-description {
+    color: #111;
+    font-weight: 700;
+    font-size: 0.9rem;
+}
+
+.ticket-status {
+    font-size: 0.7rem;
+    font-weight: 700;
+}
+
+.text-green {
+    color: #55AA55;
+}
+
+.text-yellow {
+    color: #FFC700;
+}
